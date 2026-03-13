@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pokédex</string>
+    <string name="title_pokedex">Pokédex</string>
+    <string name="search_placeholder">Buscar por nombre, número o tipo...</string>
+    <string name="search_content_description">Buscar</string>
+    <string name="clear_content_description">Limpiar</string>
+    <string name="retry">Reintentar</string>
+    <string name="no_results">No se encontraron resultados</string>
+    <string name="error_unknown">Error desconocido</string>
+    <string name="title_detail">Detalle</string>
+    <string name="back_content_description">Volver</string>
+    <string name="label_height">Altura</string>
+    <string name="label_weight">Peso</string>
+    <string name="title_stats">Estadísticas base</string>
+    <string name="unit_meter">%1$.1f m</string>
+    <string name="unit_kg">%1$.1f kg</string>
+    <string name="nav_previous">Anterior</string>
+    <string name="nav_next">Siguiente</string>
+</resources>

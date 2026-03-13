@@ -1,0 +1,8 @@
+package com.example.pokeapi.domain.model
+
+data class PokemonItem(
+    val id: Int,
+    val name: String,
+    val imageUrl: String,
+    val types: List<String> = emptyList()
+)
